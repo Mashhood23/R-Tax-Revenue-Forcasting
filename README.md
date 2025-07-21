@@ -6,6 +6,8 @@ This repository hosts an interactive R Shiny application designed to compare and
 
 The project addresses the critical need for accurate tax revenue forecasting, enabling policymakers to make informed decisions regarding fiscal planning, resource allocation, and economic development strategies. 💰📈
 
+**Link to Live Shiny App: [https://mashhood23.shinyapps.io/TaxForcasting/](https://mashhood23.shinyapps.io/TaxForcasting/)**
+
 ## 🧠 Models Implemented
 
 The application compares the following predictive models:
