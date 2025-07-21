@@ -90,9 +90,6 @@ This application is designed for easy deployment to [ShinyApps.io](https://www.s
 
 Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change. 🧑‍💻
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 ## 📧 Contact
 
