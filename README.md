@@ -2,11 +2,11 @@
 
 ## ✨ Overview
 
+### **Link to Live Shiny App: [https://mashhood23.shinyapps.io/TaxForcasting/](https://mashhood23.shinyapps.io/TaxForcasting/)**
+
 This repository hosts an interactive R Shiny application designed to compare and analyze the performance of various machine learning models for forecasting tax collection (`tcny`). The application provides comprehensive data overviews, model accuracy metrics, feature importance insights, and detailed visualizations of actual vs. predicted tax collections, including state-specific analyses and policy recommendations.
 
 The project addresses the critical need for accurate tax revenue forecasting, enabling policymakers to make informed decisions regarding fiscal planning, resource allocation, and economic development strategies. 💰📈
-
-**Link to Live Shiny App: [https://mashhood23.shinyapps.io/TaxForcasting/](https://mashhood23.shinyapps.io/TaxForcasting/)**
 
 ## 🧠 Models Implemented
 
